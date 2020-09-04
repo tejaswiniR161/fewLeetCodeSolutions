@@ -40,5 +40,4 @@ def mergesort(array):
     
     return array
 
-
 print(mergesort(array))
