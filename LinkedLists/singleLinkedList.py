@@ -51,7 +51,7 @@ def reverse_all_nodes():
     if head is None:
         print("List is empty!")
     elif head.next is None:
-        print("Has just one element! So, Reversed! HAve fun!")
+        print("Has just one element! So, Reversed! Have fun!")
     else:
         c=head.next
         p=head
